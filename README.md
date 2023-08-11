@@ -22,4 +22,6 @@ A year is considered a leap year if it meets the following criteria:
  
 - It is not divisible by 100, unless it is also divisible by 400.
 
+## Author 👋
+
 Feel free to reach out if you have any questions or suggestions!📧
