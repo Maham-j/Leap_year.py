@@ -19,7 +19,7 @@ This Python script checks if a given year is a leap year or not. :date:
 A year is considered a leap year if it meets the following criteria:
 
 - It is divisible by 4.
-- 
+ 
 - It is not divisible by 100, unless it is also divisible by 400.
 
 Feel free to reach out if you have any questions or suggestions!📧
